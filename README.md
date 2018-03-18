@@ -10,7 +10,10 @@ To complete this assignment, you need to fork this repository, make changes to y
 
 ### :books: Reading List
 
-TODO
+* [MDN - const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+* [MDN - let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+* [MDN - if/else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+* [MDN - arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 ---
 
@@ -32,6 +35,4 @@ After completing this assignment, you should start feeling a little more comfort
 
 ### :runner: Stretch Goals
 
-Done with the main task? Here's some ideas for things to continue with:
-
-TODO
+Done with the main task? The morning lecture and this task use es6 JavaScript syntax. The stretch goal is to try to complete each of the tasks in the code files using the older es5 syntax. To do that, just copy each of the challenge files to a new version and change your code to not use any es6 features. For example, copy 1-variables.html to be 1-variables-es5.html.
