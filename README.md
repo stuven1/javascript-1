@@ -36,3 +36,7 @@ After completing this assignment, you should start feeling a little more comfort
 ### :runner: Stretch Goals
 
 Done with the main task? The morning lecture and this task use es6 JavaScript syntax. The stretch goal is to try to complete each of the tasks in the code files using the older es5 syntax. To do that, just copy each of the challenge files to a new version and change your code to not use any es6 features. For example, copy 1-variables.html to be 1-variables-es5.html.
+
+Still looking for more? In a new file, try to write a solution to the "FizzBuzz" question below (which is sometimes used in interviews, so good to know):
+
+> Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
