@@ -40,3 +40,5 @@ Done with the main task? The morning lecture and this task use es6 JavaScript sy
 Still looking for more? In a new file, try to write a solution to the "FizzBuzz" question below (which is sometimes used in interviews, so good to know):
 
 > Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+
+Of course you'll be able to find solutions for the problem by googling, but only do that if you're completely stuck and want to see a solution! How you approach the problem is up to you, but the [modulo operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators) will come in very handy.
